@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fajri\\github\\Bloggie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\views\\admintag\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\views\\admintag\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\controllers\\admintagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\controllers\\admintagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\migrations\\20241221124433_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\migrations\\20241221124433_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\models\\domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\models\\domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\data\\bloggiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\data\\bloggiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|d:\\fajri\\github\\bloggie\\blogge.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{764222FC-3281-4F7C-90F3-343B06F58713}|Blogge.Web\\Blogge.Web.csproj|solutionrelative:blogge.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Views\\AdminTag\\Add.cshtml",
+              "RelativeDocumentMoniker": "Blogge.Web\\Views\\AdminTag\\Add.cshtml",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Views\\AdminTag\\Add.cshtml",
+              "RelativeToolTip": "Blogge.Web\\Views\\AdminTag\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T13:11:29.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminTagController.cs",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Controllers\\AdminTagController.cs",
+              "RelativeDocumentMoniker": "Blogge.Web\\Controllers\\AdminTagController.cs",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Controllers\\AdminTagController.cs",
+              "RelativeToolTip": "Blogge.Web\\Controllers\\AdminTagController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:08:19.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Blogge.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Blogge.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:57:10.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Blogge.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Blogge.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:57:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241221124433_Initial Migration.cs",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Migrations\\20241221124433_Initial Migration.cs",
+              "RelativeDocumentMoniker": "Blogge.Web\\Migrations\\20241221124433_Initial Migration.cs",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Migrations\\20241221124433_Initial Migration.cs",
+              "RelativeToolTip": "Blogge.Web\\Migrations\\20241221124433_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:44:33.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Models\\Domain\\Tag.cs",
+              "RelativeDocumentMoniker": "Blogge.Web\\Models\\Domain\\Tag.cs",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Models\\Domain\\Tag.cs",
+              "RelativeToolTip": "Blogge.Web\\Models\\Domain\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:43:13.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Models\\Domain\\BlogPost.cs",
+              "RelativeDocumentMoniker": "Blogge.Web\\Models\\Domain\\BlogPost.cs",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Models\\Domain\\BlogPost.cs",
+              "RelativeToolTip": "Blogge.Web\\Models\\Domain\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:43:12.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BloggieDbContext.cs",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Data\\BloggieDbContext.cs",
+              "RelativeDocumentMoniker": "Blogge.Web\\Data\\BloggieDbContext.cs",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Data\\BloggieDbContext.cs",
+              "RelativeToolTip": "Blogge.Web\\Data\\BloggieDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:42:59.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Blogge.Web\\appsettings.json",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\appsettings.json",
+              "RelativeToolTip": "Blogge.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T12:36:24.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Blogge.Web\\Program.cs",
+              "ToolTip": "D:\\fajri\\github\\Bloggie\\Blogge.Web\\Program.cs",
+              "RelativeToolTip": "Blogge.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:36:22.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
