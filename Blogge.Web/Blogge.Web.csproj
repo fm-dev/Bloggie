@@ -7,12 +7,35 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Views\AdminTag\List.cshtml" />
+    <Content Remove="Views\AdminTag\tes.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\AdminTag\List.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\AdminTag\List.cshtml" />
+    <_ContentIncludedByDefault Remove="Views\AdminTag\tes.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\AdminTag\List.cshtml" />
+    <None Include="Views\AdminTag\Tes.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\AdminTag\tes.cshtml" />
   </ItemGroup>
 
 </Project>

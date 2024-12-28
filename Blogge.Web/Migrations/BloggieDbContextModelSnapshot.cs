@@ -101,6 +101,21 @@ namespace Blogge.Web.Migrations
                     b.ToTable("Tags");
                 });
 
+            modelBuilder.Entity("Blogge.Web.Models.Domain.testTabel", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Test");
+                });
+
             modelBuilder.Entity("BlogPostTag", b =>
                 {
                     b.HasOne("Blogge.Web.Models.Domain.BlogPost", null)
