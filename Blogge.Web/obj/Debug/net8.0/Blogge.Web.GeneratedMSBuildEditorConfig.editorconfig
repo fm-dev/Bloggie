@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5UYWdcY29iYWNvYmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Fajri/Github/Bloggie/Blogge.Web/Views/AdminTag/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5UYWdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Fajri/Github/Bloggie/Blogge.Web/Views/AdminTag/ListDataTag.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5UYWdcTGlzdERhdGFUYWcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
